@@ -5,6 +5,7 @@ A list of electronics-related Lemmy communities.
 General Electronics
 - [DIY Electronics](https://lemmy.ml/c/diy_electronics)
 - [Electronics](https://discuss.tchncs.de/c/electronics)
+- [Ask Electronics](https://discuss.tchncs.de/c/askelectronics)
 
 Embedded (generic)
 - [Embedded](https://lemmy.ml/c/embedded)
